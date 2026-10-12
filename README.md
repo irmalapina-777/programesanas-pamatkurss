@@ -3,6 +3,7 @@ Autors: **Irma Lapiņa**
 ## Kā palaist
 
 -Atvērt projektu VS Code
+
 -Palaist kodu terminālī
 ## Licence
 
