@@ -1,6 +1,6 @@
 # PD1 darba vide
 
-Autors: *Irma Lapiņa*
+Autors: **Irma Lapiņa**
 
 ## Palaišana
 
